@@ -1,0 +1,28 @@
+.productRatingScore-container {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    justify-content: center;
+}
+
+.productRatingScore-score {
+    font-weight: bold;
+    font-size: 46px;
+    line-height: 20px;
+    margin: 0;
+}
+
+.productRatingScore-starAndReviews {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.productRatingScore-stars {
+    display: flex;
+    gap: 2px;
+}
+
+.productRatingScore-reviews {
+    margin: 0;
+}

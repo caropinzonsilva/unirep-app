@@ -1,0 +1,1 @@
+export { ProductRatingScore } from "./ProductRatingScore";

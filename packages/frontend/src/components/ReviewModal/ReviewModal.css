@@ -1,0 +1,21 @@
+.reviewModal-container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.reviewModal-starButton {
+    cursor: pointer;
+    background: transparent;
+    border: transparent;
+}
+
+.reviewModal-poweredBy {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 6px;
+    font-size: 12px;
+    margin: 0;
+}
